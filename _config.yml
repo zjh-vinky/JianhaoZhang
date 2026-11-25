@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jianhao Zhang (章建豪)"
-description: 
+description: "Research interests include LLM post-training, Agentic RL, and RSI."
 repository               : "zjh-vinky/zhangjianhao.github.io"
 google_scholar_stats_use_cdn : true
 
