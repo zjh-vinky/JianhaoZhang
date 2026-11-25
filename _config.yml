@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jianhao Zhang (章建豪)"
-description: "Master's student at Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences. Research interests include LLM post-training, agentic reinforcement learning, and recursive self-improvement (RSI)."
+description: 
 repository               : "zjh-vinky/zhangjianhao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/zjh-vinky"
+  github           : "zjh-vinky"
   google_plus      :
   keybase          :
   instagram        :
