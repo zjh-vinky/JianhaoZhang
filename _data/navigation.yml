@@ -1,19 +1,19 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "https://zjh-vinky.github.io/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "https://zjh-vinky.github.io/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "https://zjh-vinky.github.io/#-publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "https://zjh-vinky.github.io/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "https://zjh-vinky.github.io/#-educations"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "https://zjh-vinky.github.io/#-internships"
