@@ -32,7 +32,7 @@ I have published 6 papers at the top international AI conferences such as NeurIP
 - *2026.08*: &nbsp;🎉🎉 LLM Fine-tuning with an Unconstrained Fine-tuned Teacher is accepted by EMNLP 2026.
 - *2026.08*: &nbsp;🎉🎉 Two to Tango: Coupled Task-Reference Selection for Safe LLM Fine-tuning is accepted by EMNLP 2026.
 - *2026.04*: &nbsp;🎉🎉 CAKE: Causal-Guided Adaptive Knowledge Editing for LLMs by ACL 2026.
-- *2026.04*: &nbsp;🎉🎉 AlphaEdit^+: Model Editing in the Presence of Conflicting and Inconsistent Knowledge by ACL 2026.
+- *2026.04*: &nbsp;🎉🎉 AlphaEdit</sup>+</sup>: Model Editing in the Presence of Conflicting and Inconsistent Knowledge by ACL 2026.
 - *2026.01*: &nbsp;🎉🎉 Robust LLM Unlearning via Post Judgment and Multi-round Thinking is accepted by ICLR 2026.
 
 
