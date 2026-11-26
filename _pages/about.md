@@ -23,7 +23,7 @@ My research interests include LLM post-training, agentic reinforcement learning,
 
 I have published 6 papers at the top international AI conferences such as NeurIPS, ICLR, ACL, and EMNLP. I also interned at ByteDance from June to October 2026.
 
-**I am currently seeking industry positions and Ph.D. opportunities in large language models. Please feel free to contact me via email (zhangjianhao24@mails.ucas.ac.cn, zhangjianhao0205@gmail.com).**
+**I am currently seeking industry positions and Ph.D. opportunities in large language models. Please feel free to contact me via email ([zhangjianhao24@mails.ucas.ac.cn](mailto:zhangjianhao24@mails.ucas.ac.cn), [zhangjianhao0205@gmail.com](mailto:zhangjianhao0205@gmail.com)).**
 
 
 
