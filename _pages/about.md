@@ -93,12 +93,12 @@ Shuxin Li<sup>*</sup>, **Jianhao Zhang<sup>*,✝</sup>**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/alphaedit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AlphaEdit<sup>+<sup>: Model Editing in the Presence of Conflicting and Inconsistent Knowledge](https://aclanthology.org/2026.findings-acl.728/)
+[AlphaEdit+: Model Editing in the Presence of Conflicting and Inconsistent Knowledge](https://aclanthology.org/2026.findings-acl.728/)
 
 Qing Liu<sup>*</sup>, **Jianhao Zhang<sup>*</sup>**, Ou Wu<sup>†</sup>, Michael Ng, Yi Du
 
 [**Project**](https://github.com/zjh-vinky/AlphaEdit_plus) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Proposed **AlphaEdit<sup>+<sup>**, a robust knowledge editing framework that integrates adaptive null-space relaxation, weighted historical constraints, and value smoothing to resolve conflicting and inconsistent knowledge while improving editing robustness and preserving model coherence.
+- Proposed **AlphaEdit+**, a robust knowledge editing framework that integrates adaptive null-space relaxation, weighted historical constraints, and value smoothing to resolve conflicting and inconsistent knowledge while improving editing robustness and preserving model coherence.
 </div>
 </div>
 
